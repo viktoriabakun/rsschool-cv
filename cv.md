@@ -1,7 +1,8 @@
-My RSS CV
-Viktoryia Bakun :)
-Contact info: Telegram, Github.
-I'm really passionate with programming. Since my first thought about being a software engineer till now i can't spend my day without coding. I think that in the future i'll create something really helpfull for people!
+#My RSS CV
+
+*__Viktoryia Bakun :)  __ 
+** Contact info: ** [Telegram](https://t.me/Vusen "My telegram"),  [Github](https://github.com/viktoriabakun "My Github"). *
+*I'm really passionate with programming. Since my first thought about being a software engineer till now i can't spend my day without coding. I think that in the future i'll create something really helpfull for people! *
 
 SKILLS
 My beginner skills: HTML, CSS, GIT and a little bit JS. As it's only the beginning of my career, I've got not lots of skills, but practice makes perfect and I believe that we can always find the solution in the internet if we are stuck.
